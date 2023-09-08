@@ -1,0 +1,5 @@
+langkah - langkah 
+NPM Install dlu 
+npx sequelize-cli db:migrate
+npm start
+untuk testnya harus isi barrier token di authentication postman
